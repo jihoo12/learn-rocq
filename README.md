@@ -1,1 +1,1 @@
-# learn-coq
+# learn-rcoq
